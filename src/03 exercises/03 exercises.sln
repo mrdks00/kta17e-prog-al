@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korrutustabel 6x6", "korrutustabel 6x6\korrutustabel 6x6.csproj", "{B7D620AB-CBB5-493F-990B-D48E4B568448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "research arrays", "research arrays\research arrays.csproj", "{54782375-96A6-4B7F-BC82-0C207A5B4087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7D620AB-CBB5-493F-990B-D48E4B568448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7D620AB-CBB5-493F-990B-D48E4B568448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7D620AB-CBB5-493F-990B-D48E4B568448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
