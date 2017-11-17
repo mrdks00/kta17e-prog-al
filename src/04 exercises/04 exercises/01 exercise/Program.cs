@@ -10,8 +10,11 @@ namespace _01_exercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Paris keeruline on teise klaviatuuriga");
+            Console.WriteLine("Paris keeruline on inglise klaviatuuriga");
             Console.WriteLine("...");
+            Console.WriteLine();
+            Console.WriteLine("Nii ei tule sellest küll midagi välja..");
+
 
         }
     }
