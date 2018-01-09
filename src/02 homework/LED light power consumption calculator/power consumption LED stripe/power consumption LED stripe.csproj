@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{548A9F92-12EF-422F-9CEE-1CC5716F2D1A}</ProjectGuid>
+    <ProjectGuid>{17A1C879-AE1A-414F-9A78-7544910D49CC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>arrays_poldidmutrid_juhtmed</RootNamespace>
-    <AssemblyName>arrays_poldidmutrid_juhtmed</AssemblyName>
+    <RootNamespace>power_consumption_LED_stripe</RootNamespace>
+    <AssemblyName>power consumption LED stripe</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

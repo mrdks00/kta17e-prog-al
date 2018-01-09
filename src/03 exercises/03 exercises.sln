@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korrutustabel 6x6", "korrutustabel 6x6\korrutustabel 6x6.csproj", "{B7D620AB-CBB5-493F-990B-D48E4B568448}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "research arrays", "research arrays\research arrays.csproj", "{54782375-96A6-4B7F-BC82-0C207A5B4087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tunnikontrolli exercise", "tunnikontrolli exercise\tunnikontrolli exercise.csproj", "{A7547BA6-0297-4793-93B2-8B7BE61202EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54782375-96A6-4B7F-BC82-0C207A5B4087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7547BA6-0297-4793-93B2-8B7BE61202EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7547BA6-0297-4793-93B2-8B7BE61202EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7547BA6-0297-4793-93B2-8B7BE61202EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7547BA6-0297-4793-93B2-8B7BE61202EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA85C04-4245-4EC7-9EC0-005C47D0AD51}
 	EndGlobalSection
 EndGlobal

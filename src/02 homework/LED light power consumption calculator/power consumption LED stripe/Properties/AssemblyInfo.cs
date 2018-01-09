@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("arrays_poldidmutrid_juhtmed")]
+[assembly: AssemblyTitle("power consumption LED stripe")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("arrays_poldidmutrid_juhtmed")]
+[assembly: AssemblyProduct("power consumption LED stripe")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("548a9f92-12ef-422f-9cee-1cc5716f2d1a")]
+[assembly: Guid("17a1c879-ae1a-414f-9a78-7544910d49cc")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -7,14 +7,6 @@ namespace homework_2
         static void Main(string[] args)
         {
 
-            // Kodutöö mõtted tulevad aina sellised, et ei oska neid siia kirja panna veel.
-            // Seega sai praegu keerulisemaid asju teostada püüdes hoopis
-            // täna hommikul peolt tulnud sõpradele hommikukontrolli programm tehtud.
-            // Lisaks varem õpitule pusisin pikalt selle kallal, et programm sisestaks päeva, kuupäeva ja kellaaja.
-            // Arvasin, et suudan ise välja mõelda. Kuupäeva ja kellaaja saingi, 
-            // aga päeva sisestamiseks pidin ikka lõpuks google appi võtma.
-            // Parooli saab sisestada 3 korda.
-
             Console.Write("Palun sisesta oma nimi: ");
             string input = Console.ReadLine();
 
@@ -51,7 +43,7 @@ namespace homework_2
 
             while ((password != õigeparool) && (sisestused != 3));
 
-            if (sisestused == 3)
+            if (3 == sisestused)
                 Console.WriteLine("Sisestasid parooli 3 korda valesti. Mine parem magama tagasi ja proovi homme uuesti!");
             else
                 Console.WriteLine("Õige. Võid täna tööle minna küll!");

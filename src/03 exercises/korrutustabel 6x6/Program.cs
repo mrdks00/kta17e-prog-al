@@ -15,22 +15,19 @@ namespace korrutustabel_6x6
             Console.WriteLine("|   1   |  2   |  3   |  4   |  5   |  6   |");
             Console.WriteLine("--------------------------------------------");
 
-            for (int a = 0; a <= 6; a++)
-            {
-                Console.Write(a +"/t");
+            for (int a = 0; a <= 6; a++){
+                Console.Write(a +" | ");
             
-                for (int b = 0; b <= 6; b++)
-                {
-                    if (a > 0)
-                    {
-                        Console.Write(a * b + "/t");
+                for (int b = 0; b <= 6; b++){
+                    if (a > 0){
+                        Console.Write(" " + a * b + " ");
                     }
-                    else
-                    {
-                        Console.Write(j + "/t");
+                    else{
+                        Console.Write(" x ");
                     }
                 }
-                    }
+                Console.Write("\n");
+            }
 
             Console.WriteLine("--------------------------------------------");
 
