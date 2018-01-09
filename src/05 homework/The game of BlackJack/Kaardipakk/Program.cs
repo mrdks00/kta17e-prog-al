@@ -38,16 +38,16 @@ namespace Blackjack
             int suit_id;
             int card_id;
 
-            rank_id = 0;
+            suit_id = 0;
             card_id = 0;
 
-            while (rank_id <= 12)
+            while (suit_id <= 3)
             {
-                suit_id = 0;
+                rank_id = 0;
 
-                    while (suit_id <= 3)
+                while (rank_id <= 12)
                 {
-                    cards [card_id] = new Card (rank_id, suit_id);
+                    cards[card_id] = new Card (rank_id, suit_id);
                     rank_id++;
                     card_id++;
                 }
@@ -111,12 +111,12 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            /*Deck kaardipakk;
+            Deck kaardipakk;
             kaardipakk = new Deck();
-            kaardipakk.Shuffle(100);
-            kaardipakk.Dump_deck();*/
+            kaardipakk.Shuffle(0);
+            kaardipakk.Dump_deck();
 
-
+            Console.WriteLine();
             Console.WriteLine("Press any key to continue...");
             Console.ReadLine();
             
