@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1329C332-497A-41FA-B1A8-17B58B055485}</ProjectGuid>
+    <ProjectGuid>{C8665414-52DB-46B4-B400-AEE204864105}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Kaardipakk</RootNamespace>
-    <AssemblyName>Kaardipakk</AssemblyName>
+    <RootNamespace>homework_BJ</RootNamespace>
+    <AssemblyName>homework BJ</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
