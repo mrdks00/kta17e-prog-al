@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17A1C879-AE1A-414F-9A78-7544910D49CC}</ProjectGuid>
+    <ProjectGuid>{EE44A38B-2938-40D1-9E5F-E0530528F2D8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>power_consumption_LED_stripe</RootNamespace>
-    <AssemblyName>power consumption LED stripe</AssemblyName>
+    <RootNamespace>tunnikontroll</RootNamespace>
+    <AssemblyName>tunnikontroll</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
