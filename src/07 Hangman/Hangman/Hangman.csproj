@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17A1C879-AE1A-414F-9A78-7544910D49CC}</ProjectGuid>
+    <ProjectGuid>{40161E76-7308-4FD1-B421-5EFA0F398DD2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>power_consumption_LED_stripe</RootNamespace>
-    <AssemblyName>power consumption LED stripe</AssemblyName>
+    <RootNamespace>Hangman</RootNamespace>
+    <AssemblyName>Hangman</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

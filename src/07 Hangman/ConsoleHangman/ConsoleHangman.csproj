@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F34E4218-A020-4AC5-BDFE-35EEC515DFCF}</ProjectGuid>
+    <ProjectGuid>{3C3C469D-62A6-4E44-8366-F24758C3FEEE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LED_light_power_consumption_calculator</RootNamespace>
-    <AssemblyName>LED light power consumption calculator</AssemblyName>
+    <RootNamespace>ConsoleHangman</RootNamespace>
+    <AssemblyName>ConsoleHangman</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
