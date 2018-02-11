@@ -15,8 +15,7 @@ class Program
             " \n             \n            (_)\n            \\|/\n             |\n            / \n      \n\n",
             " \n             \n            (_)\n            \\|/\n             |\n            \n      \n\n",
             " \n             \n            (_)\n            \\ /\n             \n            \n      \n\n",
-            " \n             \n            (_)\n            \\ \n             \n            \n      \n\n" +
-            "",
+            " \n             \n            (_)\n            \\ \n             \n            \n      \n\n",
             " \n             \n            (_)\n             \n            \n      \n   \n\n",
             " \n             \n            \n             \n            \n      \n   \n\n",
         };
@@ -77,6 +76,6 @@ class Program
                 break;
             }
         }
-        Console.ReadKey();
+        Console.ReadLine();
     }
 }
