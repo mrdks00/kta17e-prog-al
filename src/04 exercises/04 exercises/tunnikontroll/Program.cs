@@ -18,8 +18,8 @@ namespace tunnikontroll
 
             while (true)
             {
-                Console.Write("Enter price of food item [-1 to quit]: ")
-                    string[] input = Console.ReadLine();
+                Console.Write("Enter price of food item [-1 to quit]: ");
+                string[] input = Console.ReadLine();
                 int sisestus = int.Parse(input);
                 string[] sisestus = new string[];
 
