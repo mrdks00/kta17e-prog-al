@@ -10,7 +10,6 @@ namespace korrutustabel_6x6
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("--------------------------------------------");
             Console.WriteLine("|   1   |  2   |  3   |  4   |  5   |  6   |");
             Console.WriteLine("--------------------------------------------");
@@ -20,10 +19,10 @@ namespace korrutustabel_6x6
             
                 for (int b = 0; b <= 6; b++){
                     if (a > 0){
-                        Console.Write(" " + a * b + " ");
+                        Console.Write(" " + a * b + " " + " | ");
                     }
                     else{
-                        Console.Write(" x ");
+                        Console.Write("  " + " x " + "  ");
                     }
                 }
                 Console.Write("\n");
