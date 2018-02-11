@@ -6,27 +6,60 @@ using System.Threading.Tasks;
 
 namespace game
 {
-    class Word
+    class Program
     {
-        private string[] words = new string[4] { "actually", "expected", "property", "additional" }; //"followed", "provided", "although", "happened", "question", "American increase received anything industry religion building interest remember business involved required children national services complete organize southern consider personal standard continue planning strength couldn't position students decision possible suddenly directly pressure thinking district probably together economic problems training evidence programs
-        int word_id = 0;
-
-        int word_counter = 0;
-        Random random= new Random();
-
-        public string choosen_word = new string(random.Next(0, 3);
-
-    public void Print_word()
+        static void Main(string[] args)
         {
+            Console.WriteLine("You are playing Hangman!");
+            Console.WriteLine("Quess the letters.. one by one");
+
+            Console.WriteLine("__________");
+
+
+            input = Console.ReadKey();
+            while (input==)
 
         }
+    }
+
+    class Word
+    {
+        private var words = new List<string> { "followed", "provided", "although", "happened", "question",
+        "American", "increase", "received", "anything", "industry", "religion", "building", "interest", "remember",
+        "business", "involved", "required", "children", "national", "services", "complete", "organize", "southern",
+        "consider", "personal", "standard", "continue", "planning", "strength", "couldn't", "position", "students",
+        "decision", "possible", "suddenly", "directly", "pressure", "thinking", "district", "probably", "together",
+        "economic", "problems", "training", "evidence", "programs" };
+
+        Random random = new Random();
+
+        public Word new_Word()
+        {
+            var choosen_word = new int(random.Next(0, Word.words(Count);
+
+        }
+
     }
 
     class Letter
     {
         private int letter;
-        private int letter_counter = 0;
 
+        private Letter[] letter_id = new letter[32];
+
+        //public Alphabet(number)
+        //{
+        //    int letter_id;
+        //   letter_id = 0;
+        //    letter_id++;
+        //}
+
+        public string[] letters = new String[32] { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L",
+            "M", "N", "O", "P", "Q", "R", "S", "Š", "Z", "Ž", "T", "U", "V", "W", "Õ", "Ä", "Ö", "Ü", "X", "Y" };
+
+        letters get.. setkjsagkjn
+        int letter_id = 0;
+        letter_id++;
     }
        
     class Program
