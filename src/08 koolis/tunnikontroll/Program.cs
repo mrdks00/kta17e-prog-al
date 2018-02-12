@@ -10,6 +10,9 @@ namespace tunnikontroll
     {
         static void Main(string[] args)
         {
+            //see programm vahetab sõnades ära tähtede järjekorra, 
+            //aga jätab esimese ja viimase tähe oma kohale.
+
             Console.Write(">");
             string word = Console.ReadLine();
 
