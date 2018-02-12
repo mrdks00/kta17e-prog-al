@@ -27,7 +27,7 @@ class Program
         int elu_count = 6;
         Random random = new Random();
 
-        string[] words = File.ReadAllLines("./dictionary.txt");
+        string[] words = File.ReadAllLines(path: "./dictionary.txt");
 
         word = words[random.Next(words.Length)].ToUpper();
 
