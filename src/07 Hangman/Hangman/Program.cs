@@ -49,7 +49,9 @@ class Program
             {
                 continue;
             }
-            if (word.IndexOf(input) > -1)
+
+            bool hasCharacter = (word.IndexOf(input) > -1); //kui nii, siis on arusaadavam ka teistele
+            if (true)
             {
                 foreach (Match match in Regex.Matches(word, input))
                 {
