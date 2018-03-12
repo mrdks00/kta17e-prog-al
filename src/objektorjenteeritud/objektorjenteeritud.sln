@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{40161E76-7308-4FD1-B421-5EFA0F398DD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "täringud\DiceRoller.csproj", "{A4D7BC68-9AB7-4A61-875E-CEA767848AA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40161E76-7308-4FD1-B421-5EFA0F398DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40161E76-7308-4FD1-B421-5EFA0F398DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40161E76-7308-4FD1-B421-5EFA0F398DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40161E76-7308-4FD1-B421-5EFA0F398DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D7BC68-9AB7-4A61-875E-CEA767848AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D7BC68-9AB7-4A61-875E-CEA767848AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D7BC68-9AB7-4A61-875E-CEA767848AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D7BC68-9AB7-4A61-875E-CEA767848AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C336E7B5-3C77-45AC-AE20-CF02F19A353D}
+		SolutionGuid = {F1CC083C-5FBE-495F-A9BA-C6D2DD382232}
 	EndGlobalSection
 EndGlobal
