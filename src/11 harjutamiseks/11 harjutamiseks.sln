@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_insert_names", "01_inser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timestamps", "timestamps\timestamps.csproj", "{F93E9A51-AB6F-4A09-AF4F-A055E0A75FDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolmas", "kolmas\kolmas.csproj", "{AE4E1D43-F8CD-4575-A3D2-985DA2050A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timestamps_synniaeg", "timestamps_synniaeg\timestamps_synniaeg.csproj", "{8BFC434B-C812-4EAC-8135-D43D31F3422E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F93E9A51-AB6F-4A09-AF4F-A055E0A75FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93E9A51-AB6F-4A09-AF4F-A055E0A75FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93E9A51-AB6F-4A09-AF4F-A055E0A75FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4E1D43-F8CD-4575-A3D2-985DA2050A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4E1D43-F8CD-4575-A3D2-985DA2050A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4E1D43-F8CD-4575-A3D2-985DA2050A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4E1D43-F8CD-4575-A3D2-985DA2050A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFC434B-C812-4EAC-8135-D43D31F3422E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFC434B-C812-4EAC-8135-D43D31F3422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFC434B-C812-4EAC-8135-D43D31F3422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFC434B-C812-4EAC-8135-D43D31F3422E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
